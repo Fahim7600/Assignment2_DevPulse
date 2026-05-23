@@ -81,7 +81,7 @@ Go to your NeonDB SQL Editor and run the contents of `schema.sql`
 npm run dev
 ```
 
-Server runs at `http://localhost:5000`
+Server runs at `https://assignment2-devpulse.onrender.com/`
 
 
 ## 🚀 Deployment
