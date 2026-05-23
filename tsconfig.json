@@ -8,6 +8,7 @@
     "module": "NodeNext",
     "moduleResolution": "NodeNext",
     "target": "ES2022",
+    "lib": ["ES2022"],
 
     // Other Outputs
     "sourceMap": true,
@@ -24,7 +25,6 @@
     "isolatedModules": true,
     "moduleDetection": "force",
     "skipLibCheck": true,
-    "esModuleInterop": true,
-    "lib": ["ES2022"]
+    "esModuleInterop": true
   }
 }
