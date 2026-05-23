@@ -81,12 +81,12 @@ Go to your NeonDB SQL Editor and run the contents of `schema.sql`
 npm run dev
 ```
 
-Server runs at `https://assignment2-devpulse.onrender.com/`
+Server runs at `http://localhost:5000`
 
 
 ## 🚀 Deployment
 
 This API is deployed on **Render**.
 
-Live URL: `https://devpulse-api.onrender.com`
+Live URL: `https://assignment2-devpulse.onrender.com`
 
